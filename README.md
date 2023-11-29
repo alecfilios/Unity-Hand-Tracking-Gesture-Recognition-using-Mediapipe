@@ -1,3 +1,8 @@
+
+https://github.com/alecfilios/Unity-Hand-Tracking-Gesture-Recognition-using-Mediapipe/assets/43823795/6501564f-e36c-4903-b9ec-ef109571a650
+
+
+
 # Hand Tracking with Gesture Recognition 
 ## Multimodal Machine Learning
 ### National Centre of Scientific Research "Demokritos"
